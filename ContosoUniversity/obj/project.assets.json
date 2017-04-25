@@ -10762,10 +10762,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\matt\\documents\\visual studio 2017\\Projects\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
+      "projectUniqueName": "C:\\Users\\Matt\\documents\\visual studio 2017\\Projects\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
       "projectName": "ContosoUniversity",
-      "projectPath": "c:\\users\\matt\\documents\\visual studio 2017\\Projects\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
-      "outputPath": "c:\\users\\matt\\documents\\visual studio 2017\\Projects\\ContosoUniversity\\ContosoUniversity\\obj\\",
+      "projectPath": "C:\\Users\\Matt\\documents\\visual studio 2017\\Projects\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
+      "outputPath": "C:\\Users\\Matt\\documents\\visual studio 2017\\Projects\\ContosoUniversity\\ContosoUniversity\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
